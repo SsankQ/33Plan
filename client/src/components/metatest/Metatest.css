@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 /*! modal !*/
 .modal-metatest {
-=======
-
-.modal-metatest{
->>>>>>> 2086f5825147a2c6f485cec9c1b716ea6f3e7681
   position: fixed;
   z-index: 999;
   left: 0;
